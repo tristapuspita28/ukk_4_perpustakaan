@@ -16,7 +16,7 @@ Hak akses berdasarkan role
 1. Admin
 Nama: Admin
 Email: admin@gmail.com
-Password: admin 123
+Password: admin 123456
 Admin bertugas mengelola seluruh data pada sistem seperti data anggota, data buku, dan peminjaman.
 2. Siswa
 Nama: Siti aisyah
